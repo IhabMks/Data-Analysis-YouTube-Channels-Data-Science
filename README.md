@@ -1,4 +1,4 @@
-# Data Analysis of the Most Trending Data Science Channels on YouTube ![YouTube Icon](res\youtube.ico "YouTube")
+# Data Analysis of the Most Trending Data Science Channels on YouTube !
 # Aims, objectives and background
 
 ## 1. [I]ntroduction
